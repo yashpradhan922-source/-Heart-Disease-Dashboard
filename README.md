@@ -195,5 +195,9 @@ heart-disease-dashboard/
 ✅ Python code generation  
 
 ---
+## link :
+
+https://claude.ai/chat/fec4fe05-1aa4-45da-af49-1bc72a351bf8?artifactId=heart_disease_dashboard
+
 
 Made with ❤️ for data science enthusiasts
