@@ -197,7 +197,6 @@ heart-disease-dashboard/
 ---
 ## link :
 
-https://claude.ai/chat/fec4fe05-1aa4-45da-af49-1bc72a351bf8?artifactId=heart_disease_dashboard
-
+https://claude.ai/public/artifacts/361cba7f-231d-4c71-b9fb-9c6bc909f94b
 
 Made with ❤️ for data science enthusiasts
